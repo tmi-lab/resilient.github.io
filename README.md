@@ -88,7 +88,7 @@ git clone https://github.com/tmi-lab/resilient.github.io.git
 
 
 # Acknowledgment
-This project is supported by the UKRI Engineering and Physical Sciences Research Council (EPSRC)/NIHR PROTECT Project (grant number: EP/W031892/1). The platform is developed in collaboration with Professor Ramin Nilforooshan and their team at the Surrey and Borders NHS Trust. 
+This project is supported by the UKRI Engineering and Physical Sciences Research Council (EPSRC)/NIHR PROTECT Project (grant number: EP/W031892/1) and the UK Dementia Research Institute (UK DRI) Care Research and Technology Centre funded by the Medical Research Council (MRC), Alzheimer’s Research UK, and Alzheimer’s Society (grant number: UKDRI-7002). The platform is developed in collaboration with Professor Ramin Nilforooshan and their team at the Surrey and Borders NHS Trust. 
 
 
 # Developers and Researchers info 
